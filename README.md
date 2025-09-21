@@ -23,7 +23,7 @@
 </section>
 
 <br/>
-<video>https://github.com/user-attachments/assets/c95f47b7-60b3-4757-b850-fed126df2f70</video>
+<img width="400" src="assets/yumigif.gif"></img>
 <br/>
 
 ---
