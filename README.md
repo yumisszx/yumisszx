@@ -23,7 +23,7 @@
 </section>
 
 <br/>
-<img width="400" src="assets/yumigif.gif"></img>
+<img width="400" src="yumigif.gif"></img>
 <br/>
 
 ---
