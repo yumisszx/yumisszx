@@ -1,6 +1,6 @@
-# 😸Olá! Eu sou a Lígia Yumi...
+# 😸Olá! Me chamo Lígia Yumi...
 
-👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistema na UNEDUVALE, iniciando a carreira na área com interesses em desenvolvimento web.
+👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistema na UNEDUVALE, iniciando a carreira na área de tecnologia.
 
 ### 📲 Conecte-se
 
@@ -26,3 +26,13 @@
 <br/>
 
 ---
+
+<section>
+ <a href="https://github.com/yumisszx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yumisszx&theme=jolly"/>
+</a>
+<a href="https://github.com/yumisszx/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yumisszx&theme=jolly&layout=compact&langs_count=8&card_width=320"/>
+</a>
+</picture>
+</section>
