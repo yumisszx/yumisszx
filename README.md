@@ -1,4 +1,4 @@
-# 😸Olá! Me chamo Lígia Yumi...
+# 😸Olá! Me chamo Lígia Yumi
 
 👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistema na UNEDUVALE, iniciando a carreira na área de tecnologia.
 
