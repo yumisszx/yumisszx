@@ -1,9 +1,0 @@
-name: Teste
-
-on: push
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Funcionando"
