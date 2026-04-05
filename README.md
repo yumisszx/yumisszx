@@ -1,36 +1,50 @@
-# 😸Olá! Me chamo Lígia Yumi
+<div align=center>
+  <h1 style="font-size: 40px; font-weight: 700; color: #ba56ff;">Lígia Yumi - yumisszx</h1>
 
-👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistema na UNEDUVALE, iniciando a carreira na área de tecnologia.
+  <p style="font-size: 17px; color: #e0bcff;">
+  🎬 creator • 💻 developer
+  </p>
+
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=500&color=8A2BE2&lines=c%C3%B3digo+%2B+conte%C3%BAdo...;bem-vindo+ao+meu+mundo"/>
+  </p>
+  <p>
+    <a href="https://www.youtube.com/@yumisszx"><img alt="youtube profile" title="Conheça meu Canal" width="200px" src="https://img.shields.io/badge/YouTube-yumisszx-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  </p>
+</div>
+
+
 
 ### 📲 Conecte-se
 
-<section align="left">
-    <a href="https://www.linkedin.com/in/ligiayumi/"><img alt="linkedin profile" title="Veja Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <img width="120" align="right" src="yumigif.gif">
-</section>
+<div align="left">
+    <a href="https://www.linkedin.com/in/ligiayumi/"><img alt="linkedin profile" title="Veja meu Linkedin" src="https://img.shields.io/badge/LinkedIn-Ligia_Yumi-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <br>
+    <a href="https://www.instagram.com/yumisszx/"><img alt="instagram profile" title="Veja meu Instagram" src="https://img.shields.io/badge/Instagram-yumisszx-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<section>
-    <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-</section>
-
-<br/>
-<br/>
+<div>
+  <p align="center">
+    <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+    <img alt="JAVA" title="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+    <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+    <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+    <img alt="Spring" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+    <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+    <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  </p>
+    
+</div>
 
 ---
-<section>
-<a href="https://github.com/yumisszx/github-readme-stats">
-  <img alt="Estatística Lígia Yumi" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yumisszx&theme=jolly"/>
+<div>
+<img src="./profile/stats.svg"/>
+<img width='35%' src="./profile/languages.svg"/>
 </a>
-<a href="https://github.com/yumisszx/convoychat">
-  <img alt="Linguagens Utilizadas" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yumisszx&theme=jolly&layout=compact&langs_count=8&card_width=320"/>
-</a>
-</section>
+</div>
