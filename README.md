@@ -1,7 +1,7 @@
 <div align=center>
-  <h1 style="font-size: 40px; font-weight: 700; color: #ba56ff;">Lígia Yumi - yumisszx</h1>
+  <h1 style="font-size: 40px; font-weight: 700;">Lígia Yumi - yumisszx</h1>
 
-  <p style="font-size: 17px; color: #e0bcff;">
+  <p style="font-size: 17px;">
   🎬 creator • 💻 developer
   </p>
 
