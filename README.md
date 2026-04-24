@@ -29,15 +29,19 @@
 
 <div>
   <p align="center">
-    <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-    <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-    <img alt="JAVA" title="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-    <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-    <img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-    <img alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-    <img alt="Spring" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-    <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-    <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+    <img alt="HTML5" title="HTML5" src="./icons/html.svg" width="50"/>
+    <img alt="CSS3" title="CSS3" src="./icons/css.svg" width="55"/>
+    <img alt="JAVA" title="JAVA" src="./icons/java.svg" width="60"/>
+    <img alt="C" title="C" src="./icons/c.svg" width="50"/>
+    <img alt="JavaScript" title="JavaScript" src="./icons/javascript.svg" width="50"/>
+    <img alt="TypeScript" title="TypeScript" src="./icons/typescript.svg" width="50"/>
+    <img alt="NodeJS" title="NodeJS" src="./icons/nodejs.svg" width="60"/>
+    <img alt="React" title="React" src="./icons/react.svg" width="50"/>
+    <img alt="MySQL" title="MySQL" src="./icons/mysql.svg" width="65"/>
+    <img alt="Spring" title="Spring" src="./icons/springBoot.svg" width="50"/>
+    <img alt="Git" title="Git" src="./icons/git.svg" width="50"/>
+    <img alt="GitHub" title="GitHub" src="./icons/github.svg" width="50"/>
+    <img alt="Figma" title="Figma" src="./icons/figma.svg" width="50"/>
   </p>
     
 </div>
