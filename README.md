@@ -15,7 +15,7 @@
 
 
 
-### 📲 Conecte-se
+### 📲 Conecte-se comigo
 
 <div align="left">
     <a href="https://www.linkedin.com/in/ligiayumi/"><img alt="linkedin profile" title="Veja meu Linkedin" src="https://img.shields.io/badge/LinkedIn-Ligia_Yumi-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
